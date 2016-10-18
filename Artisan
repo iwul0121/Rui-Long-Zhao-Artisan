@@ -1,0 +1,150 @@
+!doctype html>
+
+<html>
+	<head>
+        <link rel="stylesheet" type="text/css" href="mystyle.css">
+        <title>Eason Chan</title>
+        <img src = "easonb.jpg">
+		</head>
+
+<body>
+
+
+	<h1>Eason Chan</h1>
+<main>
+<section name = "Biography">
+	<p>
+        <h2> Biography </h2>
+		<strong>Hong Kong</strong>
+	</p>
+	<p>
+		<em>	27 July 1974 </em>
+	</p>
+
+	<p>
+		Chan, born in Hong Kong, went to England to study when he was 12. He attended St. Joseph's kindergarten, St. Joseph's College in Hong Kong, Dauntsey's School in Wiltshire, England and later Kingston University, studying architecture. Chan returned to Hong Kong before the completion of his degree to participate in the 1995 New Talent Singing Awards Competition in which he won first place. Immediately after his victory, Capital Artists signed a contract with him, ending his future career as an architect while launching his successful career in music.[8] Chan received a doctorate honorary degree from Kingston University.
+	</p>
+
+	<p>
+		Chan married his longtime girlfriend Hilary Tsui (Tsui Ho Ying) in 2006, and his wife is a former TVB actress. His daughter Constance Chan was born on 4 October 2004. Constance Chan's name was given by Eason's good friend and famous lyricist Wyman Wong. Chan gave up smoking after the birth of his daughter. He reportedly did it for Constance and the health of his voice. However, in 2007, he admitted in his concert that he has resumed smoking due to stress from his then ongoing "Moving on Stage" world tour.
+	</p>
+
+	<p>
+		On 9 December 2009, Eason carried the 2010 Olympic Torch through the downtown of Montreal, effectively becoming the only person of Chinese descent to carry both the Summer and Winter Olympic torch.
+	</p>
+    
+    <p>
+    copy from: <a>https://en.wikipedia.org/wiki/Eason_Chan</a>
+
+    </p>
+</section>
+
+<section name = "Notable Work">
+	<p>
+		<h3>List of albums</h3>
+		<ul>
+			<li>Eason Chan</li>
+			<li>Tear</li>
+			<li>Always With Me</li>
+			<li>Preparation </li>
+			<li>My Happy Time</li>
+			<li>New Life</li>
+			<li>God Bless Lover</li>
+			<li>Wedding Blessing</li>
+			<li>Happiness</li>
+			<li>Nothing Really Matters </li>
+			<li>Some Like it Hot</li>
+			<li>68'29'</li>
+			<li>Shall We Dance? Shall We Talk! </li>
+			<li>It's Me  </li>
+			<li>The Easy Ride</li>
+			<li>Mixed Up </li>
+			<li>pecial Thanks To... </li>
+			<li>Five-star home</li>
+			<li>The Line-Up </li>
+			<li>Black. White. Gray </li>
+			<li>Seven </li>
+			<li>U87 </li>
+			<li>How </li>
+			<li>Sound and Sight </li>
+			<li>Great 5000 Secs Vol.1 and 2 </li>
+			<li>Life Continues... </li>
+			<li>What's going on...? </li>
+			<li>My Great Age </li>
+			<li>Admit It </li>
+			<li>Listen To Eason Chan </li>
+			<li>Soliday </li>
+			<li>Don't Want To Let Go</li>
+			<li>H3M </li>
+			<li> 5/F Blissful </li>
+			<li>Time Flies </li>
+			<li>Taste the Atmosphere </li>
+			<li>Stranger Under My Skin</li>
+			<li> ? </li>
+			<li>...3mm </li>
+			<li>The Key </li>
+			<li>Rice and Shine </li>
+			<li>Getting Ready</li>
+		</ul>
+</p>
+</section>
+
+<Section name = "Artisan Links">
+<p>
+	<h3>Artisan Links</h3>
+	<li><a href=”https://www.youtube.com/watch?v=sgR8OEI74Xw” align=”center”>Eason's Life Concert</a></li>
+	<li><a href="https://www.youtube.com/watch?v=m2Q8EMIE1j0"> Duo Concert</a></li>
+	<li><a href="https://www.youtube.com/watch?v=WK7hb5S3Fig">Moving on Stage Concert</a></li>
+</p>
+</section>
+
+<Section name = "Photo Gallery">
+<p>
+    <h3> Photo Gallery<h3>
+    <figure>
+	<img src="eason.png"><br>
+    <figcaption>Fig1. <em>Eason's Life</em> concern poster </figcaption>
+    </figure>
+    <figure>
+	<img src="download.jpeg"><br>
+    <figcaption>Fig2. <em>Moving on Stage</em> concern poster </figcaption>
+    </figure>
+    <figure>
+    <img src="2701903.jpg">
+    <figcaption>Fig3. <em>H3M</em> album cover </figcaption>
+    </figure>
+</p>
+</section>
+
+
+<section name = "Newsletter">
+<p>
+    <h3>Newsletter</h3>
+    <form>
+        Name: <br>
+        <input type = "text"><br>
+        Email: <br>
+        <input type = "text"><br>
+        Would you like to receive email updates about Eason?<br>
+        <input type = "radio"><br>
+        <select>
+            <option>New Album Information</option>
+            <option>New Concert Information</option>
+            <option>Others</option>
+        </select><br>
+        <input type = "submit">
+    </form>
+</p>
+</section>
+</main>
+
+<footer>
+    __________________________________________________________________________________<br>
+    Copyright 2016 National Academy of Sciences. All rights reserved. <br>
+    Unless otherwise indicated, all materials on these pages are copyrighted by the National Academy of Sciences. All rights reserved. No part of these pages, either text or image may be used for any purpose other than personal use. Therefore, reproduction, modification, storage in a retrieval system or retransmission, in any form or by any means, electronic, mechanical or otherwise, for reasons other than personal use, is strictly prohibited without prior written permission. "The National Academies" or "the Academies" refers collectively to the National Academy of Sciences, National Academy of Engineering, and National Academy of Medicine. General inquiries should be directed to our Web feedback box, accessible from this link or from the footer at the bottom of most pages on our site. Messages posted to some areas of the Academies' website are not private. If you post a message, anyone with access to the message area can read it, and your e-mail address becomes available to anyone who browses or uses the message area. Please keep in mind that the Academies cannot control who sends you e-mail as a result of postings to this service.
+</footer>
+
+
+</body>
+
+</html>
